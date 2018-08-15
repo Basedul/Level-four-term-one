@@ -1,0 +1,1 @@
+lectures(john,100).

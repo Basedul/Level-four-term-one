@@ -1,0 +1,11 @@
+female(helen).
+female(ruth).
+female(petunia).
+female(lili).
+female(dudly).
+
+male(paul).
+male(albert).
+male(pau).
+
+
